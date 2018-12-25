@@ -21,4 +21,4 @@ jupyter notebook
 
 * Assignment 2: `Integer Program Formulation`, `Dynamic Programming`, `Simplex Method`
 
-* Assignment 3: `Greedy Algorithms`, `Shortest Paths`, `Network Flow` 
+* Assignment 3: `Greedy Algorithms`, `Shortest Paths`, `Network Flow`
